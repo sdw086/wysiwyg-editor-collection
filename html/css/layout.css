@@ -1,0 +1,19 @@
+.margin-10px-top {
+    margin-top: 10px;
+}
+
+#fixedbtn {
+    position:fixed;
+    right: 120px;
+    top: 30px;
+    z-index:1;
+}
+#fixedbtn_back {
+    position:fixed;
+    right: 40px;
+    top: 30px;
+    z-index:1;
+}
+.ck-editor__editable_inline {
+    min-height: 400px;
+}
